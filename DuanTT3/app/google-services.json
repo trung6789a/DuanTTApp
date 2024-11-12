@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "23604616080",
+    "firebase_url": "https://datt-a0695-default-rtdb.firebaseio.com",
+    "project_id": "datt-a0695",
+    "storage_bucket": "datt-a0695.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23604616080:android:13facbebfb3bf9aba07115",
+        "android_client_info": {
+          "package_name": "com.example.duantt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkz2l1hXG2ATz-RsU7TLtHJ1Xxc0anFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
